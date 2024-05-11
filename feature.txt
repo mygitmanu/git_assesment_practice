@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-chennai bangalorebangalore
-=======
 chennai bangalorehyderabad
->>>>>>> new-features
+manohar
